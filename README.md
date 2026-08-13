@@ -11,7 +11,7 @@ Welcome to my LeetCode problem-solving repository! This space serves as a person
 | 🟢 **Easy** | 7 |
 | 🟡 **Medium** | 3 |
 | 🔴 **Hard** | 0 |
-| **Total** | **0** |
+| **Total** | **10** |
 
 > 🎯 **Goal:** Solve problems consistently, focus on optimal time & space complexity, and write clean, readable code.
 
